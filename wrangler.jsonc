@@ -19,4 +19,12 @@
 		},
 	],
 	// Worker Loader for plugin sandboxing (removed)
+
+    // fix from https://github.com/emdash-cms/emdash/issues/31
+    "kv_namespaces": [
+      {
+        "binding": "SESSION",
+        "id": "<your-namespace-id>"
+      }
+    ],
 }
