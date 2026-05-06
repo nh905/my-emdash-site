@@ -24,7 +24,7 @@
     "kv_namespaces": [
       {
         "binding": "SESSION",
-        "id": "<your-namespace-id>"
+        "id": "99709bef31b24dc6964308c2429c6aa4"
       }
     ],
 }
